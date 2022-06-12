@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "foc.png",
+    "hash": "QmRj53rHxLwNgyUKUbLa1hB5uhMLASuAySnQG1LhNC1ksE"
+  },
+  {
+    "id": 2,
+    "name": "reed",
+    "price": ".01",
+    "image_url": "ligma",
+    "description": "ligma",
+    "filename": "another1.png",
+    "hash": "QmYW2riiUsUQDbC1wgHWo88JayfKPuxQncH4dV5FTstf48"
+  }
+]
